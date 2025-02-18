@@ -1,7 +1,21 @@
 header{
    text-align: center;
-   background-color: gray
+  
 }
 nav{
-    color
+    
+    font-style:normal;
+}
+
+main{
+    background-image: url(bg.jpg);
+    background-blend-mode: difference ;
+    text-align: center;
+    color: whitesmoke;
+    padding:0%;
+    background-size: cover;
+    
+}
+section{
+    
 }
